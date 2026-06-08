@@ -1,0 +1,10 @@
+[book]
+title = "Swarm Robotics Documentation"
+authors = ["Nishu Gupta"]
+language = "en"
+multilingual = false
+src = "src"
+
+[output.html]
+git-repository-url = "https://github.com/NishuGupta18/Swarm-robotics"
+edit-url-template = "https://github.com/NishuGupta18/Swarm-robotics/edit/main/docs/{path}"
